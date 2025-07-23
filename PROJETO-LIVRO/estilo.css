@@ -16,7 +16,6 @@
   }
   img{
     width: 190px;
-
     display: block;
     margin: 0 auto;
     margin-bottom: 20px;
@@ -28,13 +27,15 @@
   }
   h3{
     margin-bottom: 20px;
+    font-size: 18px;
   }
   a{
-    color: #49B970;
+    color: #ffffff;
     font-size: 14px;
+    font-weight: bold;
     border-radius: 25px;
     padding: 10px 30px;
-
+    background-color: #49B970;
   }
   p{
     font-size: 16px;
@@ -44,5 +45,9 @@
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
+  }
+  span{
+    font-weight: bold;
+    color: #000000;
   }
   
