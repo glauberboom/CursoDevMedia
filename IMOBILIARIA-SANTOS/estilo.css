@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Tahoma', sans-serif;
+  text-align: center;
+  }
+  .topo{
+    background-color: #afddfb;  
+    
+  }
+  .topo img{
+    width: 150px;
+    height: auto;
+  }
+  .topo p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  .link-topo{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 0 10px 10px; 
+  }
+  div{
+    padding-top: 30px;
+    padding-bottom: 30px; 
+  }
+  #banner{
+    margin-top: 50px;
+    padding-top: 0;
+  }
+  .sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+
+  }
+  h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+  }
+  .imagem-padrao{
+    margin-top: 20px;
+    width: 450px;
+  }
+  .texto-azul{
+    color: #1d80c1;
+    font-weight: bold;
+  }
+  .servicos{
+    background-color: #1d80c1;
+  }
+  .subtitulo{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: bold;
+  }
+  .servicos p{
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+  }
+  .texto-amarelo{
+    color: #fff81b;
+  }
+  .servicos ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+  }
+  .servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+  }
+  .subtitulo-azul{
+    color: #1d80c1;
+  }
+  p{
+    font-size: 18px;
+    width: 980px;
+    line-height: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+  }
+  span{
+    font-weight: bold;
+  }
+  .contato{
+    background-color: #1d80c1;
+  }
+  .contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .contato h2{
+    margin-bottom: 20px;
+  }
+  .contato ul{
+    list-style-type: none;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+  }
+  .contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+  }
+  .contato li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 2px;
+    border: 5px 5px;
+    border-radius: 5px;
+  }
